@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla", (ONLINE) Star Jalsha
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 
