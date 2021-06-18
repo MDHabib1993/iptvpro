@@ -9,7 +9,7 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Sg9r4d.jpg[/img]" group-title="Bangladesh", (ONLINE) Channel 69
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AgbB9Op.png[/img]" group-title="Bangladesh", (ONLINE) ETV
 http://10.16.100.205/hls/21etv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRR1p2x.png[/img]" group-title="Kolkata Bangla", (ONLINE) Akash Aath
