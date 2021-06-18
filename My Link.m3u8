@@ -1,19 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla", (ONLINE) Star Jalsha
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sGiwoe.png[/img]" group-title="Kolkata Bangla", (ONLINE) Zee Bangla HD
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0sGiwoe.png[/img]" group-title="Kolkata Bangla", (ONLINE) Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0sGiwoe.png[/img]" group-title="Kolkata Bangla", (ONLINE) Zee Bangla HD
-http://otv.ftpbd.net/streams/107/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Sg9r4d.jpg[/img]" group-title="Bangladesh", (ONLINE) Channel 69
 http://10.16.100.205/hls/21etv.m3u8
@@ -55,10 +49,10 @@ http://103.205.133.19/hls/satv.m3u8
 https://rhridoy136.shortcm.li/satv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh", (ONLINE) Gazi TV
-http://172.16.50.2:8081/live/gazi/chunks.m3u8?nimblesessionid=2224085
+http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh", (ONLINE) Gazi TV
-http://172.16.50.2:8081/live/gazi/chunks.m3u8
+http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PbpMb4.png[/img]" group-title="Bangladesh", (OFFLINE) Shomoy TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -157,13 +151,13 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="Hindi", (ONLINE) Sony TV
-http://172.16.50.2:8081/live/sonytv/chunks.m3u8
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi", (ONLINE) & TV
-http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi", (ONLINE) Colors
-http://10.16.100.201/hindi/colors_1stop_in.m3u8
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEKqqIK.png[/img]" group-title="Music", (ONLINE) Dhoom Music
 http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
@@ -178,22 +172,22 @@ http://10.16.100.207:8082/sports/mtuness.m3u8
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL0YN8l.png[/img]" group-title="Sports", (ONLINE) Sony Ten 1
-http://172.16.50.2:8081/live/ten1/chunks.m3u8
+http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL0YN8l.png[/img]" group-title="Sports", (ONLINE) Sony Ten 1
 http://otv.ftpbd.net/streams/122/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S98ElFt.png[/img]" group-title="Sports", (ONLINE) Sony Ten 2
-http://otv.ftpbd.net/streams/109/index.m3u8
+http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 3
-http://172.16.50.2:8081/live/ten3/chunks.m3u8
+http://10.16.100.207:8082/sports/sony_Ten3_ln.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
-http://otv.ftpbd.net/streams/106/index.m3u8
+http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
-http://103.205.133.19/hls/sonysix.m3u8
+http://10.16.100.207:8082/sports/sony_six_uk.m3u8
 
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", (ONLINE) Star Sports Select 1
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
