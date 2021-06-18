@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla", (ONLINE) Star Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla", (ONLINE) Star Jalsha
-https://probashibangla-tv.telelivebd.com/starj/linkers.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpyyxw5.png[/img]" group-title="Kolkata Bangla", (ONLINE) Jalsha Movies
-http://otv.ftpbd.net/streams/115/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sGiwoe.png[/img]" group-title="Kolkata Bangla", (ONLINE) Zee Bangla HD
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 
