@@ -70,11 +70,17 @@ http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7lsAXY.jpg[/img]" group-title="Bangladesh", (ONLINE) Massranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C7lsAXY.jpg[/img]" group-title="Bangladesh", (ONLINE) Massranga TV
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNwZEs9.png" group-title="Bangladesh", (ONLINE) My TV
 http://10.16.100.205/hls/my_tv_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwZJ5W4.png[/img]" group-title="Bangladesh", (ONLINE) News 24
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwZJ5W4.png[/img]" group-title="Bangladesh", (ONLINE) News 24
+https://rhridoy136.shortcm.li/news24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", (ONLINE) NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
@@ -108,6 +114,8 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sGiwoe.png[/img]" group-title="Kolkata Bangla", (ONLINE) Zee Bangla HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
+https://rhridoy136.shortcm.li/sonyaath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
