@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
@@ -187,6 +186,9 @@ http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 3
 http://172.16.50.2:8081/live/ten3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 4
+https://tvstream.space/jtv/xxxx.php?c=Ten_4_HD_Tamil&=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", (ONLINE) Star Sports Select 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
