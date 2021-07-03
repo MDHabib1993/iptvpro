@@ -173,7 +173,7 @@ http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
-
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL0YN8l.png[/img]" group-title="Sports", (ONLINE) Sony Ten 1
 http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
