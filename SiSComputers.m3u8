@@ -149,7 +149,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 https://tvstream.space/jtv/xxxx.php?c=Sony_Max_SD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j3DtApV.jpg[/img]" group-title="Hindi", (ONLINE) Sony TV
-http://172.16.50.2:8081/live/sonytv/chunks.m3u8?nimblesessionid=5189297
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi", (ONLINE) & TV
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
