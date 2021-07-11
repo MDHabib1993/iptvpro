@@ -167,10 +167,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
-http://10.16.100.207:8082/sports/sony_six_uk.m3u8
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
-http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
+http://10.16.100.207:8082/sports/dish_sony6_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
 http://175.41.46.16:8081/hls/1.m3u8
@@ -182,13 +182,25 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL0YN8l.png[/img]" group-title="Sports", (ONLINE) Sony Ten 1
-
+http://10.16.100.203:8082/bangla/ten1_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S98ElFt.png[/img]" group-title="Sports", (ONLINE) Sony Ten 2
 http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S98ElFt.png[/img]" group-title="Sports", (ONLINE) Sony Ten 2
+http://10.16.100.207:8082/sports/dish_Ten_1_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S98ElFt.png[/img]" group-title="Sports", (ONLINE) Sony Ten 2
+http://10.16.100.207:8082/sports/Ten2_local_dish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S98ElFt.png[/img]" group-title="Sports", (ONLINE) Sony Ten 2
 http://175.41.46.16:8081/hls/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 3
+http://10.16.100.207:8082/sports/dish_ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 3
+http://10.16.100.203:8082/bangla/ten_3_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iTnAALd.png[/img]" group-title="Sports", (ONLINE) Sony Ten 3
 http://172.16.50.2:8081/live/ten3/chunks.m3u8
