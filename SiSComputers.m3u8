@@ -91,7 +91,7 @@ http://10.16.100.205/hls/ntv_b_720.m3u8
 http://10.16.100.203:8082/bangla/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", (ONLINE) RTV
-
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD2CsVp.png[/img]" group-title="Bangladesh", (ONLINE) SATV
 http://103.205.133.19/hls/satv.m3u8
