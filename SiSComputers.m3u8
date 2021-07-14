@@ -40,6 +40,9 @@ https://ahmadabdullahrifat.shortcm.li/channelsuk
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) DBC News
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB3IbiR.png[/img]" group-title="Bangladesh", (ONLINE) Desh TV
@@ -108,6 +111,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PbpMb4.png[/img]" group-title="Bangladesh", (ONLINE) Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azhfYQ9.jpg[/img]" group-title="Kolkata Bangla", (ONLINE) Sristy TV
+http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRR1p2x.png[/img]" group-title="Kolkata Bangla", (ONLINE) Akash Aath
 
 
@@ -160,6 +166,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeRvKSL.jpg[/img]" group-title="Hindi", (ONLINE) & pictures hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58s9vNf.jpg[/img]" group-title="Hindi", (ONLINE) & Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SqUCmES.png[/img]" group-title="Hindi", (ONLINE) Sony Max
 https://tvstream.space/jtv/xxxx.php?c=Sony_Max_SD&q=1200&e=.m3u8
 
@@ -174,12 +183,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4JH5kS.jpg[/img]" group-title="Music", (ONLINE) 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5mBqI5.jpg[/img]" group-title="English", (ONLINE) &flix hd
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K8po2jE.png[/img]" group-title="English", (ONLINE) HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vQ84ry.png[/img]" group-title="Sports", (ONLINE) Sony Six HD
 http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
@@ -234,3 +237,12 @@ http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arhH7mT.jpg[/img]" group-title="Hindi" , (ONLINE) Discovery Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5mBqI5.jpg[/img]" group-title="English", (ONLINE) &flix hd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8po2jE.png[/img]" group-title="English", (ONLINE) HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2qSdRr.jpg[/img]" group-title="English", (ONLINE) Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
