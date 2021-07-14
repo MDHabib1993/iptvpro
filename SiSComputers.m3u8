@@ -116,6 +116,8 @@ http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRR1p2x.png[/img]" group-title="Kolkata Bangla", (ONLINE) Akash Aath
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4ih84S.jpg[/img]" group-title="Kolkata Bangla", (ONLINE) ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5kNuczz.jpg[/img]" group-title="Kolkata Bangla", (ONLINE) Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
@@ -159,6 +161,9 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hgBI5Gc.png[/img]" group-title="Hindi", (ONLINE) Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCo14Zx.jpg[/img]" group-title="Hindi", (ONLINE) Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwI6o93.png[/img]" group-title="Hindi", (ONLINE) Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
