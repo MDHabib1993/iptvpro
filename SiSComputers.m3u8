@@ -154,6 +154,8 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi", (ONLINE) Colors HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xKCAeF.jpg[/img]" group-title="Hindi", (ONLINE) Dabang TV
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hgBI5Gc.png[/img]" group-title="Hindi", (ONLINE) Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/playlist.m3u8
@@ -243,6 +245,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K8po2jE.png[/img]" group-title="English", (ONLINE) HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2qSdRr.jpg[/img]" group-title="English", (ONLINE) Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L2qSdRr.jpg[/img]" group-title="English", (ONLINE) Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
