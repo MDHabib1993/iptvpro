@@ -126,6 +126,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 https://rhridoy136.shortcm.li/sonyaath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDlP5H0.png[/img]" group-title="Kolkata Bangla", (ONLINE) Khushboo Bangla
@@ -218,7 +221,6 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJ2Z6SN.jpg[/img]" group-title="Hindi" , (ONLINE) National Geograpic
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arhH7mT.jpg[/img]" group-title="Hindi" , (ONLINE) Discovery Hindi
