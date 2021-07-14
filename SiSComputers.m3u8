@@ -36,6 +36,9 @@ http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh", (OFFLINE) Channel S
 https://ahmadabdullahrifat.shortcm.li/channelsuk
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2WQ4l3.jpg[/img]" group-title="Bangladesh", (OFFLINE) Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Sg9r4d.jpg[/img]" group-title="Bangladesh", (ONLINE) Channel 69
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 
