@@ -166,9 +166,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeRvKSL.jpg[/img]" group-title="Hindi", (ONLINE) & pictures hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/58s9vNf.jpg[/img]" group-title="Hindi", (ONLINE) & Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SqUCmES.png[/img]" group-title="Hindi", (ONLINE) Sony Max
 https://tvstream.space/jtv/xxxx.php?c=Sony_Max_SD&q=1200&e=.m3u8
 
@@ -237,6 +234,9 @@ http://175.41.46.16:8081/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/arhH7mT.jpg[/img]" group-title="Hindi" , (ONLINE) Discovery Hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58s9vNf.jpg[/img]" group-title="English", (ONLINE) & Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5mBqI5.jpg[/img]" group-title="English", (ONLINE) &flix hd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/mono.m3u8
