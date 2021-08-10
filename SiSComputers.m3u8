@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
+http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2sGV1Y.png[/img]" group-title="Bangladesh", (ONLINE) ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
@@ -19,13 +19,16 @@ http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
+http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+http://10.16.100.201:8082/bangla/baNgLa_tv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHTRVMx.png[/img]" group-title="Bangladesh", (ONLINE) Channel 9
 https://rhridoy136.shortcm.li/channel9.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/fHTRVMx.png[/img]" group-title="Bangladesh", (ONLINE) Channel 9
+http://10.16.100.203:8082/bangla/chanNel9_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMpQP8B.png[/img]" group-title="Bangladesh", (ONLINE) CHANNEL 24
 http://10.16.100.205/hls/ch24.m3u8
@@ -46,7 +49,7 @@ https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB3IbiR.png[/img]" group-title="Bangladesh", (ONLINE) Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
@@ -67,7 +70,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh", (ONLINE) Gazi TV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://10.16.100.207:8082/sports/gazi_tvhd_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LzqioML.png[/img]" group-title="Bangladesh", (ONLINE) Independent TV
 https://rhridoy136.shortcm.li/independenttv.m3u8
@@ -76,7 +79,7 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", (ONLINE) Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", (ONLINE) Mohona TV
 http://10.16.100.205/hls/mohona_tv_720.m3u8
@@ -94,7 +97,7 @@ http://10.16.100.205/hls/my_tv_720.m3u8
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwZJ5W4.png[/img]" group-title="Bangladesh", (ONLINE) News 24
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+http://10.16.100.201:8082/bangla/nEws24_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwZJ5W4.png[/img]" group-title="Bangladesh", (ONLINE) News 24
 https://rhridoy136.shortcm.li/news24.m3u8
