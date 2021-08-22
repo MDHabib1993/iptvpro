@@ -163,6 +163,9 @@ https://rhridoy136.shortcm.li/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZCawB7A.png[/img]" group-title="Kolkata Bangla", (ONLINE) KOLKATA TV
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 
