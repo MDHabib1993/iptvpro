@@ -161,7 +161,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 https://rhridoy136.shortcm.li/sonyaath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
-http://103.205.133.19/hls/sony8.m3u8
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vNQ24Ru.png[/img]" group-title="Kolkata Bangla", (ONLINE) Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
